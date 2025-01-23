@@ -1,4 +1,4 @@
-Simple Audio Visualizer
+# Simple Audio Visualizer
 
 A Blender extension that creates a simple audio visualizer by generating animated cubes that represent the audio spectrum of a selected audio file. Customize the number of visual elements and enable mirror mode for a different look.
 
